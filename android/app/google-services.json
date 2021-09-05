@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406457373015",
+    "project_id": "my-infermiera",
+    "storage_bucket": "my-infermiera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406457373015:android:1c6390c6bc666930a4ae12",
+        "android_client_info": {
+          "package_name": "com.tsftech.myinfermiera.my_infermiera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406457373015-3v6kji3stgvd9k1f857huito1afguid8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsftech.myinfermiera.my_infermiera",
+            "certificate_hash": "d571ad815c4d928990f432bfbaa2873a3b3a23cb"
+          }
+        },
+        {
+          "client_id": "406457373015-mu7bp760liadk6jv2r5ic7sl2lqq6tbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAGlfN71EBrQyyGbr8t7aXjiG2C6f1g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406457373015-mu7bp760liadk6jv2r5ic7sl2lqq6tbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
