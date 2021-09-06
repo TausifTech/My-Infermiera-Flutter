@@ -1,16 +1,11 @@
-# my_infermiera
+# My Infermiera
 
 Nursing made easy.
 
-## Getting Started
+## For keeping track of your loved ones
 
-This project is a starting point for a Flutter application.
+This project is built on Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+We can keep track of blood sugar level, blood pressure level and daily food by this app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is lag free, minimal and very convinient.
